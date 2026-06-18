@@ -1,0 +1,8 @@
+{
+  "id":"2",
+  "name":"Lior's python language",
+  "description":"Lior basically created python,he's the goat",
+  "version": "V1.0.0",
+  "iconPath": "/icon.jpg",
+  "supportedOS": {"windows": "py.exe"}
+}
