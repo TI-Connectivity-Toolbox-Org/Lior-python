@@ -3,6 +3,6 @@
   "name":"Lior's python language",
   "description":"Lior basically created python,he's the goat",
   "version": "V1.0.0",
-  "iconPath": "/icon.jpg",
+  "iconPath": "Python-logo-notext.jpg",
   "supportedOS": {"windows": "py.exe"}
 }
